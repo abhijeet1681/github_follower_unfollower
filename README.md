@@ -8,14 +8,14 @@
 
   This is a fully responsive website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://abhi-weather-appp.netlify.app/"><strong>➥ Live Demo</strong></a>
+  <a href="https://github-follower-unfollower.netlify.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
 
 ### Demo Screeshots
 
-![Portfolio Desktop Demo](Screenshot(101).png "Desktop Demo")
+![Portfolio Desktop Demo](aj.png "Desktop Demo")
 
 ### Prerequisites
 
