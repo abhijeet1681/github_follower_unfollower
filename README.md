@@ -15,7 +15,7 @@
 
 ### Demo Screeshots
 
-![Portfolio Desktop Demo](Screenshot (101).png "Desktop Demo")
+![Portfolio Desktop Demo](Screenshot(101).png "Desktop Demo")
 
 ### Prerequisites
 
