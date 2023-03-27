@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/abhijeet1681/weather-forecast)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/abhijeet1681/github_follower_unfollower)
   [![Instagram Follow](https://img.shields.io/badge/-Instagram-FF1494)](https://instagram.com/developer_abhii?igshid=ZDdkNTZiNTM=)
 
 
